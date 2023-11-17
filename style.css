@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+    background-color: gold;
+    text-align: center;
+}
+
+header{
+    background-color: burlywood;
+    border: 2px solid #bb78e7;
+}
+
+heder a{
+    border-radius: 10px;
+    background-color: purple;
+    text-decoration: none;
+    color: rgb(206, 170, 203);
+    margin: 15px 1px;
+}
+
+h1{
+    text-align: center;
+    font-family:PMingLiU-ExtB;
+}
+
+footer{
+    background-color: cyan;
+    border-color: royalblue;
+    text-decoration: ;
+}
+
+nav a{
+    border-radius: 7px;
+    background-color: rgb(52, 2, 190);
+    text-decoration: none;
+    color: greenyellow;
+    margin: 10px;
+    padding: 2px;
+}
+
+nav{
+    margin: 10px;
+}
